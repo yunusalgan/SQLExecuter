@@ -1,0 +1,27 @@
+D:\TFSPROJECT_INFO\FPA\tech\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\TFSPROJECT_INFO\FPA\tech\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\TFSPROJECT_INFO\FPA\tech\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\TFSPROJECT_INFO\FPA\tech\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\TFSPROJECT_INFO\FPA\tech\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\TFSPROJECT_INFO\FPA\tech\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\TFSPROJECT_INFO\FPA\tech\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\TFSPROJECT_INFO\FPA\tech\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\TFSPROJECT_INFO\FPA\tech\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\10.0.0.2\e\TempDocs\Yunus Alğan\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+\\10.0.0.2\e\TempDocs\Yunus Alğan\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+\\10.0.0.2\e\TempDocs\Yunus Alğan\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+\\10.0.0.2\e\TempDocs\Yunus Alğan\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+\\10.0.0.2\e\TempDocs\Yunus Alğan\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+\\10.0.0.2\e\TempDocs\Yunus Alğan\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+\\10.0.0.2\e\TempDocs\Yunus Alğan\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+\\10.0.0.2\e\TempDocs\Yunus Alğan\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+\\10.0.0.2\e\TempDocs\Yunus Alğan\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Onur\Desktop\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Onur\Desktop\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Onur\Desktop\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\Onur\Desktop\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Onur\Desktop\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Onur\Desktop\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Desktop\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Onur\Desktop\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Onur\Desktop\SQLExecuter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
