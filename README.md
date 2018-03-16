@@ -1,2 +1,2 @@
 # SQLExecuter
-Boyutu yüksek data içeren sql scriptlerini çalıştırmak için yazılmıştır.
+Boyutu yüksek data içeren sql scriptlerini çalıştırmak için yazılmıştır...
